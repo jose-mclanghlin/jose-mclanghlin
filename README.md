@@ -1,24 +1,61 @@
 # Hi there 👋 🧑‍💻
 
-I'm a passionate full-stack developer focused on cloud solutions, automation, and clean architecture. I have hands-on experience with DDD, Infrastructure as Code, and testing best practices. I enjoy learning new technologies and sharing knowledge about clean code and scalable systems.
+I'm **José Manuel Mc Langhlin**, a **DevOps Engineer and Software Architect** specialized in **.NET Core applications** and **cloud-native solutions**.  
 
-Find me around the web 🌐:
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/your-linkedin/) 💼
-- Tinkering with ideas on [Twitter](https://twitter.com/your-twitter) 🎤
-- Solving challenges on [HackerRank](https://www.hackerrank.com/your-hackerrank) 💻
-- Playing chess on [Chess.com](https://www.chess.com/member/your-chess) ♟️
+With a strong background in **clean architecture, Domain-Driven Design (DDD), and CQRS**, I design and build **scalable, resilient, and secure systems**.  
+On the infrastructure side, I focus on **DevSecOps practices, Kubernetes, GitOps, and AWS cloud solutions** to enable automation, reliability, and observability.  
+
+💡 My passion lies in bridging the gap between **software development and cloud operations**, delivering systems that are both **well-architected and production-ready**.  
 
 ---
 
-## GitHub Stats 📊
+## 🚀 About Me
 
-![jose-mclanghlin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jose-mclanghlin&show_icons=true&theme=default)
+- 🏗️ **Software Architect** with emphasis on **.NET Core backend solutions**  
+- ☁️ **AWS practitioner** with experience in ECS, EKS, S3, RDS, IAM, and networking  
+- 🛠️ **DevOps Engineer** focused on **CI/CD, Infrastructure as Code (IaC), and observability**  
+- 🔒 Advocate of **DevSecOps** with tools like **SonarQube, Trivy, and Infisical**  
+- 🧩 Passionate about **DDD, Event-Driven Architectures, and testing best practices**  
 
-- **Total Stars Earned:** [![GitHub stars](https://img.shields.io/github/stars/jose-mclanghlin?style=social)](https://github.com/jose-mclanghlin?tab=stars)
-- **Total Commits (2025):** <!-- Update manually -->
-- **Total PRs:** <!-- Update manually -->
-- **Total Issues:** <!-- Update manually -->
-- **Contributed last year:** <!-- Update manually -->
+---
+
+## ⚡ Tech Stack & Tools
+
+**Backend & Architecture:**  
+`C#` `ASP.NET Core` `Entity Framework Core` `DDD` `CQRS`  
+
+**Cloud & DevOps:**  
+`AWS (ECS, EKS, S3, RDS, IAM)` `Docker` `Kubernetes` `Helm` `Terraform` `GitOps (Argo CD)` `Istio`  
+
+**Databases & Messaging:**  
+`PostgreSQL` `Redis` `RabbitMQ`  
+
+**CI/CD & Security:**  
+`Jenkins` `SonarQube` `Trivy` `Infisical` `Harbor`  
+
+**Monitoring & Observability:**  
+`Prometheus` `Grafana`  
+
+---
+
+## 🌐 Find me around the web
+
+- 💼 Sharing insights on [LinkedIn](https://www.linkedin.com/in/jose-mclanghlin/)  
+- 💻 Solving challenges on [LeetCode](https://leetcode.com/u/mclanghlin/)  
+
+---
+
+## 📊 GitHub Stats
+
+![José’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-mclanghlin&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-mclanghlin&layout=compact&theme=default)
+
+---
+
+## 🐍 Contribution Graph
+
+![Snake animation](https://github.com/jose-mclanghlin/jose-mclanghlin/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
