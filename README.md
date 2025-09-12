@@ -28,7 +28,7 @@ On the infrastructure side, I focus on **DevSecOps practices, Kubernetes, GitOps
 `AWS (ECS, EKS, S3, RDS, IAM)` `Docker` `Kubernetes` `Helm` `Terraform` `GitOps (Argo CD)` `Istio`  
 
 **Databases & Messaging:**  
-`PostgreSQL` `Redis` `RabbitMQ`  
+`PostgreSQL` `Redis` `Azure Cosmos DB` `RabbitMQ`
 
 **CI/CD & Security:**  
 `Jenkins` `SonarQube` `Trivy` `Infisical` `Harbor`  
