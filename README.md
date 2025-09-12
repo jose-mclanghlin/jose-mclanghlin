@@ -34,14 +34,14 @@ On the infrastructure side, I focus on **DevSecOps practices, Kubernetes, GitOps
 `Jenkins` `SonarQube` `Trivy` `Infisical` `Harbor`  
 
 **Monitoring & Observability:**  
-`Prometheus` `Grafana`  
+`Prometheus` `Grafana`  `ElK` `Kiali`
 
 ---
 
 ## 🌐 Find me around the web
 
 - 💼 Sharing insights on [LinkedIn](https://www.linkedin.com/in/jose-mclanghlin/)  
-- 💻 Solving challenges on [LeetCode](https://leetcode.com/u/mclanghlin/)  
+- 💻 Solving challenges on [LeetCode](https://leetcode.com/u/mclanghlin/)
 
 ---
 
@@ -50,12 +50,6 @@ On the infrastructure side, I focus on **DevSecOps practices, Kubernetes, GitOps
 ![José’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-mclanghlin&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-mclanghlin&layout=compact&theme=default)
-
----
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/jose-mclanghlin/jose-mclanghlin/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
