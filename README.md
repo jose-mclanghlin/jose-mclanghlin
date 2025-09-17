@@ -47,13 +47,9 @@ On the infrastructure side, I focus on **DevSecOps practices, Kubernetes, GitOps
 
 ## 📊 GitHub Stats
 
-**José Mc Langhlin Matienzo**
+![José’s GitHub stats](https://raw.githubusercontent.com/jose-mclanghlin/github-readme-assets/main/github-stats.png)
 
-- **Repositorios:** 12
-- **Commits:** 152
-- **Followers:** 3
-- **Following:** 4
-- **Contributions (last year):** 209
+![Top Languages](https://raw.githubusercontent.com/jose-mclanghlin/github-readme-assets/main/top-langs.png)
 
 ---
 
