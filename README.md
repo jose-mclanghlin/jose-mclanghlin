@@ -47,10 +47,8 @@ On the infrastructure side, I focus on **DevSecOps practices, Kubernetes, GitOps
 
 ## 📊 GitHub Stats
 
-![José’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-mclanghlin&show_icons=true&theme=default)
+[![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=jose-mclanghlin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/jose-mclanghlin)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-mclanghlin&layout=compact&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-mclanghlin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/jose-mclanghlin)
 
----
-
-> _From [jose-mclanghlin](https://github.com/jose-mclanghlin)_
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jose-mclanghlin&theme=tokyonight&hide_border=true)](https://github.com/jose-mclanghlin)
